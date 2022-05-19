@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>Formulario-JS</title>
+</head>
+<body>
+    <section>
+        <div class="container">
+            <div class="quadrado">
+                <div class="header">
+                    <h2>Cadastrar</h2>
+                </div>
+                <form id="form" class="form" >
+                    <div class="controle_form ">
+                        <label for="cep">Informe CEP</label>
+                        <input type="text" name="cep" id="cep" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" />
+
+                        <small class="small_cep">Mensagem de erro</small>
+                    </div>
+               
+               
+                    <div class="controle_form ">
+                        <label for="Rua">Rua</label>
+                        <input type="text" name="Rua" id="Rua" >
+                        <small>Mensagem de erro</small>
+                    </div>
+               
+             
+                    <div class="controle_form">
+                        <label for="Bairro">Bairro</label>
+                        <input type="text" name="Bairro" id="Bairro">
+                        <small>Mensagem de erro</small>
+                    </div>
+                     <div class="quadrado_baixo">   
+                        <div class="controle_form_maior">
+                            <label for="Cidade">Cidade</label>
+                            <input type="text" name="Cidade" id="Cidade">
+                            <small>Mensagem de erro</small>
+                        </div>
+
+                        <div class="controle_form_menor">
+                            <label for="UF">UF</label>
+                            <input type="text" name="UF" id="UF" >
+                            <small>Mensagem de erro</small>
+                        </div>
+                    </div>
+                    <div class="quadrado_baixo">   
+                        <div class="controle_form_maior">
+                            <label for="IBGE">IBGE</label>
+                            <input type="text" name="IBGE" id="IBGE" >
+                            <small>Mensagem de erro</small>
+                        </div>
+
+                        <div class="controle_form_menor">
+                            <label for="DDD">DDD</label>
+                            <input type="text" name="DDD" id="DDD">
+                            <small>Mensagem de erro</small>
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+        </div>
+     </section>
+    <script src="./index.js"></script>
+ </body>
+</html>
