@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="https://web.whatsapp.com/d825e9ee-79d5-4333-9de6-c9b54f9f9e88.png" alt="exemplo imagem">
+<img src="blob:https://web.whatsapp.com/d825e9ee-79d5-4333-9de6-c9b54f9f9e88.png" alt="exemplo imagem">
 
 > Formulário de preenchimento automático de CEP.
 ### Ajustes e melhorias
