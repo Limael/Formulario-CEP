@@ -6,6 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
+<img src="https://cdn.discordapp.com/attachments/840715995039662130/976986398911516753/unknown.png" alt="">
 
 
 > Formulário de preenchimento automático de CEP.
