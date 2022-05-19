@@ -33,6 +33,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
+        <img src="https://cdn.discordapp.com/attachments/840715995039662130/976986905877020692/unknown.png" width="100px;" alt="Foto do Gustavo Rafael de Lima"/><br>
         <sub>
           <b>Gustavo Rafael de Lima</b>
         </sub>
